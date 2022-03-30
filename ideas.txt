@@ -1,0 +1,21 @@
+Generare at least 5 compelling project ideas for web applications you would like to create. 
+The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. 
+You can feature data visualizations, searches, maps, or other interactive elements (or not).
+
+
+Car Alarm for my Parents Company
+- Features able to order alarm, with date and total price of cost
+- Can Acess orders and make a admin page to track where they should go install from where they are.
+
+Cashier Practice app
+- gets api from multiple fast food restaurants so they can train cashiers or have experience before going on there first day.
+
+CarApp
+- Bring information about your car, parts and shows diagrams of everything u might need to know or wanna upgrade.
+- with closes location to car part store/ gasoline
+
+liquidations app
+- looks up close thief stores or large lidquidations for purchase around the area with the help of zipcode.
+
+GPU
+- Helps find any Gpu with price range feature, if when and where there stock and decent price for the Gpu being looked at.
